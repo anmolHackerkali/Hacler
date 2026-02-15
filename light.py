@@ -1,0 +1,1 @@
+These files are animation files which are made up of pages. With these files you can control the animation with your hands. 
